@@ -1,0 +1,52 @@
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.exe
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.pdb
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.xml
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\ResolveAssemblyReference.cache
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmgame.resources
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmhighscore.resources
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Frmlogon.resources
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmstartpage.resources
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Resources.resources
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.vbproj.GenerateResource.Cache
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.exe
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.xml
+\\fs02\studentdata\2008\033289\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.pdb
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.exe
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.xml
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.pdb
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.exe
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.pdb
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.xml
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\ResolveAssemblyReference.cache
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmgame.resources
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmhighscore.resources
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Frmlogon.resources
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmstartpage.resources
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Resources.resources
+E:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.vbproj.GenerateResource.Cache
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.exe
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.xml
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.pdb
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.exe
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.pdb
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.xml
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\ResolveAssemblyReference.cache
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmgame.resources
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmhighscore.resources
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Frmlogon.resources
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmstartpage.resources
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Resources.resources
+G:\College user space back up\ICT\Assignments\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.vbproj.GenerateResource.Cache
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.exe
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.xml
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.pdb
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.exe
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.pdb
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\bin\Debug\Spaceinvaders.xml
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.vbprojResolveAssemblyReference.cache
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmgame.resources
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmhighscore.resources
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Frmlogon.resources
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.frmstartpage.resources
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.Resources.resources
+C:\Users\matthew\My Files\Work\PROG\Spaceinvaders\Spaceinvaders\obj\Debug\Spaceinvaders.vbproj.GenerateResource.Cache
